@@ -20,3 +20,4 @@ do
   echo "hello" $name
   cd..
 done
+#adding comment
